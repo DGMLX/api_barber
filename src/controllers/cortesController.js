@@ -1,5 +1,5 @@
 export const obtenerDatosComentarios = (req,res) =>{
-    console.log("obteniendo datos perros")
+    console.log("obteniendo datos de los comentarios")
 
     res.json([
         {
